@@ -3,7 +3,7 @@ title:             Daily Notes
 email:             sheguloves@hotmail.com
 description:       This project is for daily notes recording
 author:            Start Bootstrap
-baseurl:           "" # the subpath of your site, e.g. /blog
+baseurl:           "/daily-notes" # the subpath of your site, e.g. /blog
 url:               "" # the base hostname & protocol for your site, e.g. http://example.com
 
 root: "daily-notes"
